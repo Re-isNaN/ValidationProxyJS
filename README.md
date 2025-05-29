@@ -1,4 +1,4 @@
-# Object Proxy JS
+# Validation Proxy JS
 
 ## Introdução / Introduction
 ### 🇧🇷 Português
