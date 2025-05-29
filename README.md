@@ -78,7 +78,7 @@ A lógica de validação neste projeto segue o padrão de projeto Builder, facil
 - Cada método (string(), required(), etc.) representa um passo na construção da regra, tornando o código mais **modular**, **legível** e **extensível**.
 - Essa abordagem substitui funções monolíticas por pequenos blocos reutilizáveis, que podem ser combinados de maneira flexível conforme a necessidade de validação.
 
-## 🏗️ Architecture: Builder Design Pattern
+## 🏗️ Architecture: Design Pattern Builder
 The validation logic in this project follows the Builder design pattern, facilitating the creation of complex rules through the composition of chained methods.
 
 ### 👷 How the Builder Pattern is Applied
